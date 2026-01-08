@@ -23,7 +23,7 @@ Ever since I was little, I loved tweaking and changing parts of my devices. Rang
 
 # 📫 |Contact info
 
-<img align="right" width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=Ty3r0X&show_icons=true&theme=merko"/>
+<img align="right" width="450" height="300" src="./profile/stats.svg"/>
 
 | Protocol / Website | Contact link |
 |--------------------|--------------|
